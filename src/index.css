@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.Redligth { 
+    width: 250px;
+    height: 220px;
+    background-color: red;
+    
+}
+
+.Yellowligth { 
+  width: 250px;
+  height: 220px;
+  background-color: yellow;
+ 
+}
+
+.Greenligth { 
+  width: 250px;
+  height: 220px;
+  background-color:green;
+  
+}
+
+
+
+.RedligthOn { 
+  width: 250px;
+  height: 220px;
+  background-color: red;
+  box-shadow: 0px 0px 40px 20px red;
+}
+.YellowligthOn { 
+  width: 250px;
+  height: 220px;
+  background-color: yellow;
+  box-shadow: 0px 0px 40px 20px yellow;
+}
+.GreenligthOn { 
+  width: 250px;
+  height: 220px;
+  background-color:green;
+  box-shadow: 0px 0px 40px 20px green;
+}
